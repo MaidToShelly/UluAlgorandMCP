@@ -1,0 +1,23 @@
+{
+  "552635992": {
+    "name": "Tinyman V1.1 Validator",
+    "protocol": "tinyman",
+    "role": "amm-validator",
+    "type": "dex",
+    "description": "Tinyman V1.1 AMM validator application. Deprecated in favor of V2 but historically significant as the first major Algorand DEX."
+  },
+  "1002541853": {
+    "name": "Tinyman V2 Router",
+    "protocol": "tinyman",
+    "role": "amm-router",
+    "type": "dex",
+    "description": "Tinyman V2 AMM router and validator. Supports concentrated liquidity, flash swaps, flash loans, and improved capital efficiency."
+  },
+  "760937186": {
+    "name": "NFDomains Registry V2",
+    "protocol": "nfdomains",
+    "role": "name-registry",
+    "type": "naming-service",
+    "description": "NFDomains V2 registry application. Manages .algo domain name registration, ownership, metadata, and reverse resolution."
+  }
+}

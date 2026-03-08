@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "source": "static-registry",
+    "note": "Well-known NFDomain (.algo) names. For live resolution, use UluCoreMCP or the NFDomains API directly.",
+    "tlds": [".algo"]
+  },
+  "names": {
+    "pera.algo": {
+      "description": "Pera Wallet — primary Algorand mobile wallet"
+    },
+    "tinyman.algo": {
+      "description": "Tinyman — leading Algorand DEX"
+    },
+    "folks.algo": {
+      "description": "Folks Finance — Algorand lending protocol"
+    },
+    "vestige.algo": {
+      "description": "Vestige — Algorand DeFi analytics and aggregator"
+    },
+    "nfd.algo": {
+      "description": "NFDomains — Algorand naming service"
+    },
+    "algofi.algo": {
+      "description": "Algofi — Algorand lending protocol (deprecated)"
+    },
+    "humble.algo": {
+      "description": "HumbleSwap — decentralized exchange"
+    },
+    "defly.algo": {
+      "description": "Defly — Algorand DeFi wallet"
+    },
+    "goracle.algo": {
+      "description": "Goracle — decentralized oracle network"
+    },
+    "compx.algo": {
+      "description": "CompX — concentrated liquidity DEX"
+    }
+  }
+}

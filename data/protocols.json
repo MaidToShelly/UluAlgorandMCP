@@ -1,0 +1,133 @@
+[
+  {
+    "id": "tinyman",
+    "name": "Tinyman",
+    "type": "dex",
+    "description": "Leading Algorand DEX using constant-product AMM pools. Supports V1.1 (deprecated) and V2 with concentrated liquidity, flash swaps, and flash loans.",
+    "website": "https://tinyman.org",
+    "tags": ["defi", "amm", "swap", "liquidity"],
+    "contracts": {
+      "v1-validator": 552635992,
+      "v2-router": 1002541853
+    }
+  },
+  {
+    "id": "pact",
+    "name": "Pact",
+    "type": "dex",
+    "description": "Algorand DEX offering constant-product and stableswap AMM pools with zap-in functionality and composable DeFi routing.",
+    "website": "https://pact.fi",
+    "tags": ["defi", "amm", "swap", "stableswap"],
+    "contracts": {}
+  },
+  {
+    "id": "folks-finance",
+    "name": "Folks Finance",
+    "type": "lending",
+    "description": "Decentralized lending and borrowing protocol on Algorand. Supports deposits, loans, liquid governance via gALGO, and cross-chain lending via Folks Router.",
+    "website": "https://folks.finance",
+    "tags": ["defi", "lending", "borrowing", "governance", "liquid-staking"],
+    "contracts": {}
+  },
+  {
+    "id": "nfdomains",
+    "name": "NFDomains",
+    "type": "naming-service",
+    "description": "Algorand naming service providing .algo domain names as NFTs. Supports profile metadata, avatar, verified addresses, and reverse resolution.",
+    "website": "https://nf.domains",
+    "tags": ["naming", "identity", "nft", "domains"],
+    "contracts": {
+      "registry-v2": 760937186
+    }
+  },
+  {
+    "id": "vestige",
+    "name": "Vestige",
+    "type": "analytics",
+    "description": "Algorand DeFi analytics and swap aggregator. Provides asset price tracking, pool analytics, and aggregated swaps across multiple Algorand DEXes.",
+    "website": "https://vestige.fi",
+    "tags": ["analytics", "aggregator", "defi", "swap"],
+    "contracts": {}
+  },
+  {
+    "id": "algomint",
+    "name": "Algomint",
+    "type": "bridge",
+    "description": "Bridge protocol that mints wrapped Bitcoin (goBTC) and wrapped Ethereum (goETH) on Algorand, enabling cross-chain asset representation.",
+    "website": "https://algomint.io",
+    "tags": ["bridge", "wrapper", "cross-chain", "btc", "eth"],
+    "contracts": {}
+  },
+  {
+    "id": "humble-swap",
+    "name": "HumbleSwap",
+    "type": "dex",
+    "description": "Decentralized exchange available on both Algorand and Voi. Provides constant-product AMM pools for ASA and ARC-200 token swaps.",
+    "website": "https://humbleswap.com",
+    "tags": ["defi", "amm", "swap", "liquidity"],
+    "contracts": {}
+  },
+  {
+    "id": "lofty",
+    "name": "Lofty",
+    "type": "real-world-assets",
+    "description": "Real estate tokenization platform on Algorand. Enables fractional ownership of rental properties through tokenized property shares.",
+    "website": "https://www.lofty.ai",
+    "tags": ["rwa", "real-estate", "tokenization", "fractional"],
+    "contracts": {}
+  },
+  {
+    "id": "goracle",
+    "name": "Goracle",
+    "type": "oracle",
+    "description": "Decentralized oracle network for Algorand. Provides off-chain data feeds, cross-chain messaging, and verifiable random functions to smart contracts.",
+    "website": "https://goracle.io",
+    "tags": ["oracle", "data-feed", "vrf", "infrastructure"],
+    "contracts": {}
+  },
+  {
+    "id": "compx",
+    "name": "CompX",
+    "type": "dex",
+    "description": "Algorand DEX offering concentrated liquidity, limit orders, and DCA (dollar-cost averaging) functionality.",
+    "website": "https://compx.io",
+    "tags": ["defi", "dex", "concentrated-liquidity", "limit-orders"],
+    "contracts": {}
+  },
+  {
+    "id": "cometa",
+    "name": "Cometa",
+    "type": "liquid-staking",
+    "description": "Liquid staking protocol on Algorand. Enables users to stake ALGO while maintaining liquidity through a liquid staking token.",
+    "website": "https://cometa.farm",
+    "tags": ["defi", "liquid-staking", "staking", "yield"],
+    "contracts": {}
+  },
+  {
+    "id": "pera",
+    "name": "Pera Wallet",
+    "type": "wallet",
+    "description": "Primary mobile wallet for the Algorand ecosystem. Provides asset management, WalletConnect integration, swap functionality, and asset verification.",
+    "website": "https://perawallet.app",
+    "tags": ["wallet", "mobile", "walletconnect"],
+    "contracts": {}
+  },
+  {
+    "id": "defly",
+    "name": "Defly",
+    "type": "wallet",
+    "description": "Algorand wallet with integrated DeFi features including swap aggregation, portfolio tracking, and charting tools.",
+    "website": "https://defly.app",
+    "tags": ["wallet", "defi", "swap", "portfolio"],
+    "contracts": {}
+  },
+  {
+    "id": "aramid-bridge",
+    "name": "Aramid Bridge",
+    "type": "bridge",
+    "description": "Cross-chain bridge connecting Algorand with other AVM-compatible networks including Voi. Supports native tokens and ASAs.",
+    "website": "https://aramid.finance",
+    "tags": ["bridge", "cross-chain", "interoperability"],
+    "contracts": {}
+  }
+]

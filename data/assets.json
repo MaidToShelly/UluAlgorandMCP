@@ -1,0 +1,128 @@
+{
+  "0": {
+    "name": "Algo",
+    "symbol": "ALGO",
+    "decimals": 6,
+    "type": "native",
+    "protocol": null,
+    "tags": ["native", "currency", "governance"],
+    "description": "Native token of the Algorand blockchain. Used for transaction fees, staking, and governance."
+  },
+  "31566704": {
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "type": "stablecoin",
+    "protocol": null,
+    "tags": ["stablecoin", "circle", "usd"],
+    "description": "USD Coin issued by Circle. The primary USD stablecoin on Algorand."
+  },
+  "312769": {
+    "name": "Tether USDt",
+    "symbol": "USDt",
+    "decimals": 6,
+    "type": "stablecoin",
+    "protocol": null,
+    "tags": ["stablecoin", "tether", "usd"],
+    "description": "Tether USD stablecoin on Algorand."
+  },
+  "386192725": {
+    "name": "goBTC",
+    "symbol": "goBTC",
+    "decimals": 8,
+    "type": "wrapped",
+    "protocol": "algomint",
+    "tags": ["wrapped", "bitcoin", "bridge"],
+    "description": "Wrapped Bitcoin on Algorand via Algomint bridge."
+  },
+  "386195940": {
+    "name": "goETH",
+    "symbol": "goETH",
+    "decimals": 8,
+    "type": "wrapped",
+    "protocol": "algomint",
+    "tags": ["wrapped", "ethereum", "bridge"],
+    "description": "Wrapped Ethereum on Algorand via Algomint bridge."
+  },
+  "226701642": {
+    "name": "Yieldly",
+    "symbol": "YLDY",
+    "decimals": 6,
+    "type": "governance",
+    "protocol": null,
+    "tags": ["defi", "yield", "governance"],
+    "description": "Governance token for the Yieldly DeFi protocol on Algorand."
+  },
+  "287867876": {
+    "name": "Opulous",
+    "symbol": "OPUL",
+    "decimals": 10,
+    "type": "utility",
+    "protocol": null,
+    "tags": ["music", "nft", "defi"],
+    "description": "Opulous music DeFi platform token. Enables music-backed NFTs and lending."
+  },
+  "470842789": {
+    "name": "Defly",
+    "symbol": "DEFLY",
+    "decimals": 6,
+    "type": "utility",
+    "protocol": "defly",
+    "tags": ["wallet", "defi", "utility"],
+    "description": "Utility token for the Defly wallet and DeFi aggregation platform."
+  },
+  "700965019": {
+    "name": "Vestige",
+    "symbol": "VEST",
+    "decimals": 6,
+    "type": "utility",
+    "protocol": "vestige",
+    "tags": ["analytics", "defi", "utility"],
+    "description": "Utility token for the Vestige analytics and swap aggregation platform."
+  },
+  "887406851": {
+    "name": "Pact",
+    "symbol": "PACT",
+    "decimals": 6,
+    "type": "governance",
+    "protocol": "pact",
+    "tags": ["dex", "governance", "defi"],
+    "description": "Governance token for the Pact DEX protocol on Algorand."
+  },
+  "523683256": {
+    "name": "Akita Inu",
+    "symbol": "AKTA",
+    "decimals": 0,
+    "type": "community",
+    "protocol": null,
+    "tags": ["community", "meme"],
+    "description": "Community token on Algorand. One of the earliest and most recognized community ASAs."
+  },
+  "2751733": {
+    "name": "PlanetWatch",
+    "symbol": "PLANETS",
+    "decimals": 6,
+    "type": "utility",
+    "protocol": null,
+    "tags": ["iot", "environmental", "utility"],
+    "description": "PlanetWatch environmental monitoring reward token."
+  },
+  "283820866": {
+    "name": "Algofi STBL",
+    "symbol": "STBL",
+    "decimals": 6,
+    "type": "stablecoin",
+    "protocol": null,
+    "tags": ["stablecoin", "defi", "deprecated"],
+    "description": "Algofi algorithmic stablecoin. Deprecated following Algofi protocol shutdown."
+  },
+  "1138500612": {
+    "name": "GARD",
+    "symbol": "GARD",
+    "decimals": 6,
+    "type": "stablecoin",
+    "protocol": null,
+    "tags": ["stablecoin", "defi", "cdp"],
+    "description": "GARD algorithmic stablecoin backed by ALGO collateral."
+  }
+}

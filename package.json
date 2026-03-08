@@ -1,8 +1,14 @@
 {
-  "name": "empty-mcp",
-  "version": "0.0.1",
+  "name": "ulu-algorand-mcp",
+  "version": "1.0.0",
+  "description": "Algorand ecosystem MCP server — protocol registry, application identification, asset identification, and naming resolution",
   "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.0.0"
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.22.0"
   }
 }
